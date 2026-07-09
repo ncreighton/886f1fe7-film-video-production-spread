@@ -1,2 +1,25 @@
-# 886f1fe7-film-video-production-spread
-Built for film production professionals who are tired of starting from a blank document every single time.  Ready to use immediately — open, fill in your details, done. Fully editable: every field, color, and section customizable.  ## What's Included  - Film &amp; Video Production Spreadsheet Calculator — fully configured and ready to use - Fully edita
+# Film & Video Production Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E8wP6mXcYI2hi5bucZI0e)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E8wP6mXcYI2hi5bucZI0e)
+
